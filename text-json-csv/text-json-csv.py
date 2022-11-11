@@ -1,7 +1,8 @@
 import json
 
+# Creating text files and reading/writing to and from it
 # f1 = open("file-0.txt", "a")
-#
+
 # str1 = "My name is Tirtharaj Mukherjee. Welcome to my first project"
 # f1.write(str1)
 # f1.close()
@@ -18,6 +19,7 @@ import json
 # k = f2.read()
 # print(k)
 
+# Creating a dictionary and writing to a file
 dict1 ={
     "emp1": {
         "name": "Eminem",
