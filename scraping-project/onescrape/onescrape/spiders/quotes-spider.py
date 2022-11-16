@@ -1,6 +1,7 @@
 import scrapy
 from ..items import OnescrapeItem
 
+
 class QuoteSpider(scrapy.Spider):
     name = 'qts'
     start_urls = ['https://quotes.toscrape.com/']
@@ -42,3 +43,10 @@ class QuoteSpider(scrapy.Spider):
             items['tags'] = tags
             yield items
         print(type(items))
+
+        nxt_page = response.css("li.next > a::attr(href)").get()
+
+        if nxt_page is not None:
+            yield response.follow(nxt_page, callback=self.parse)
+
+
