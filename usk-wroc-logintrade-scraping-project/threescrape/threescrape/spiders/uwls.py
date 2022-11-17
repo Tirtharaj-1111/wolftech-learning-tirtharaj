@@ -20,5 +20,3 @@ class UwlsSpider(scrapy.Spider):
             items['openDate'] = openDate[0].strip()
             items['closeDate'] = closeDate[0].strip()
             yield items
-
-
