@@ -13,4 +13,6 @@ scripts is disabled on this system. For more information, see about_Execution_Po
   2i. export to json,csv<br>
 </p>
 <p>3. MySQL Workbench installation and multi-conceptual exercise</p>
-<p>
+<p>4. Scraped usk-wroc.logintrade.net</p>
+<p>5. Scraped zsm-czest.logintrade.net but pagination is not working</p>
+<p>6. Scraped https://www.amazon.in/gp/bestsellers/books/ref=zg_bs_pg_2?ie=UTF8&pg=1 but pagination is not working</p>
