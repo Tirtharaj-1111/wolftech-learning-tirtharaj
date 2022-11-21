@@ -16,3 +16,4 @@ scripts is disabled on this system. For more information, see about_Execution_Po
 <p>4. Scraped usk-wroc.logintrade.net</p>
 <p>5. Scraped zsm-czest.logintrade.net but pagination is not working</p>
 <p>6. Scraped https://www.amazon.in/gp/bestsellers/books/ref=zg_bs_pg_2?ie=UTF8&pg=1 but pagination is not working</p>
+   6b.Scraped https://www.amazon.in/gp/bestsellers/books/ref=zg_bs_pg_2?ie=UTF8&pg=1 with pagination (Reference used: https://www.youtube.com/watch?v=C2w18Wou3aU)
