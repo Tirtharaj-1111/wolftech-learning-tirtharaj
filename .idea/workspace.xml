@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30440273-72ba-4742-b2f6-157807c81635" name="Changes" comment="fivescrape - scraped amazon bestselling books with all pages">
-      <change afterPath="$PROJECT_DIR$/data-science-adv-python/CarPricesData.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-science-adv-python/Data Science w Advanced Python.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-science-adv-python/Links collection.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-science-adv-python/dsap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="30440273-72ba-4742-b2f6-157807c81635" name="Changes" comment="Data Science w/ Adv. Python docs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668773475937</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Data Science w/ Adv. Python docs">
+      <created>1669000825183</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1669000825183</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +225,7 @@
     <MESSAGE value="fourscrape - scraped zsm-czest-logintrade.net" />
     <MESSAGE value="fivescrape - scraped amazon bestselling books" />
     <MESSAGE value="fivescrape - scraped amazon bestselling books with all pages" />
-    <option name="LAST_COMMIT_MESSAGE" value="fivescrape - scraped amazon bestselling books with all pages" />
+    <MESSAGE value="Data Science w/ Adv. Python docs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Data Science w/ Adv. Python docs" />
   </component>
 </project>
