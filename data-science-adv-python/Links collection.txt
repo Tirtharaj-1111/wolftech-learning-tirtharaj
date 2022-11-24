@@ -1,3 +1,6 @@
 1. Install pip
 https://www.liquidweb.com/kb/install-pip-windows/#:~:text=How%20to%20Install%20PIP%20for%20Python%20on%20Windows,Python%20Packages%20...%206%20Step%206%3A%20Configuration%20
 2. https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
+3. How to connect to MySQL on Windows?
+https://stackoverflow.com/questions/4960048/how-can-i-connect-to-mysql-in-python-3-on-windows
+4. Solve password with spl. chars while connecting to sql database - https://stackoverflow.com/questions/1423804/writing-a-connection-string-when-password-contains-special-characters
