@@ -17,3 +17,6 @@ scripts is disabled on this system. For more information, see about_Execution_Po
 <p>5. Scraped zsm-czest.logintrade.net but pagination is not working</p>
 <p>6. Scraped https://www.amazon.in/gp/bestsellers/books/ref=zg_bs_pg_2?ie=UTF8&pg=1 but pagination is not working</p>
    6b.Scraped https://www.amazon.in/gp/bestsellers/books/ref=zg_bs_pg_2?ie=UTF8&pg=1 with pagination (Reference used: https://www.youtube.com/watch?v=C2w18Wou3aU)
+<p>7. data-science-adv-python project to demonstrate pandas features to read, export and deal with datasets.</p>
+<p>8. Imported the medical_table made in data-science-adv-python project into SQL and then reimported into Pandas dataframe to be exported as json/csv/xlsx</p>
+<p>9. Accessed jsonplaceholder REST API, made GET,POST,PUT requests to the API to get data from the underlying web service. Created a table out of the response json data</p>
